@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Fundação + Componentes + Shell",
+    "status": "completed"
+  },
+  {
+    "content": "Páginas core: Dashboard, Products, Prices, Orders",
+    "status": "completed"
+  },
+  {
+    "content": "Promoções + secundárias com tabela (StockBurn, ExpiredProducts, Freight)",
+    "status": "completed"
+  },
+  {
+    "content": "Detalhes/comercial: ProductDetail, ExtensionDetail (+ Extensions/OrderDetail/Analytics)",
+    "status": "completed"
+  },
+  {
+    "content": "Storefront responsivo (chips wrap, accordion, painéis)",
+    "status": "completed"
+  },
+  {
+    "content": "Testing agent (frontend): E2E + ZERO rolagem lateral — 51/51 passou; z-index de Preços corrigido",
+    "status": "completed"
+  }
+]
